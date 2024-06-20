@@ -1,3 +1,4 @@
+#Kango911
 def get_words_array(line):
     # Используем метод split() для разделения строки на слова по пробелам
     words = line.split()

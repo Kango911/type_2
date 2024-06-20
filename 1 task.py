@@ -1,3 +1,4 @@
+#Kango911
 def remove_first_word(line):
     # Разделяем строку на слова по пробелам
     words = line.split()

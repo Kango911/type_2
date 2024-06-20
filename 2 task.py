@@ -1,3 +1,4 @@
+#Kango911
 def swap_adjacent_chars(line):
     # Преобразуем строку в список символов, чтобы можно было менять элементы местами
     chars = list(line)
